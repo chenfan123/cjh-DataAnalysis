@@ -57,9 +57,6 @@ show tables;
 # 8. 查看当前数据库的所有表的结构
 show create table 表名;
 
-# 9. 查看当前数据库的所有表的结构
-show create table 表名;
-
 # 10. 创建数据表
 create table 表名 (
     字段名 数据类型 [约束],
